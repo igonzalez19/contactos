@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">aadPractica1</string>
+    <string name="ultimo_archivo_guardado">ultimo archivo guardado</string>
+    <string name="ruta">Ruta:</string>
+    <string name="historial">Historial</string>
+    <string name="leer">leer</string>
+    <string name="lista_de_contactos">Lista de contactos</string>
+    <string name="volver_atras">volver atras</string>
+    <string name="cargar_lista">cargar lista</string>
+
+    <string name="tituloExplicacion">Warning</string>
+    <string name="mensajeExplicacion">Lo necesito</string>
+    <string name="tituloExplicacion2">Lo necesito</string>
+    <string name="mensajeExplicacion2">Lo necesito</string>
+    <string name="title_activity_ajustes">Ajustes</string>
+    <string name="respNo">No</string>
+    <string name="respSi">Sí</string>
+    <string name="pulse_cargar_lista_para_ver_sus_contactos">Pulse cargar lista para ver sus contactos</string>
+    <string name="ajustes">ajustes</string>
+    <string name="ayuda">ayuda</string>
+    <string name="title_activity_settings">Settings</string>
+
+    <!-- Preference Titles -->
+    <string name="messages_header">Messages</string>
+    <string name="sync_header">Sync</string>
+
+    <!-- Messages Preferences -->
+    <string name="signature_title">Your signature</string>
+    <string name="reply_title">Default reply action</string>
+
+    <!-- Sync Preferences -->
+    <string name="sync_title">Sync email periodically</string>
+    <string name="attachment_title">Download incoming attachments</string>
+    <string name="attachment_summary_on">Automatically download attachments for incoming emails
+    </string>
+    <string name="attachment_summary_off">Only download attachments when manually requested</string>
+    <string name="texto">Texto</string>
+    <string name="nombre_del_archivo">Nombre del archivo</string>
+    <string name="guardarArchivoSI">Se guardara el nombre del ultimo archivo guardado</string>
+    <string name="guardarArchivoNO">No se guardara nada de los ultimos archivos guardados</string>
+    <string name="mensaje_almacenamiento">Selecciona donde quieres que se guarden los archivos</string>
+    <string name="escribir_archivo">Escribir archivo</string>
+    <string name="crear_archivo">Crear archivo</string>
+    <string name="archivoTitulo">archivo</string>
+    <string name="contactosTitulo">Contactos</string>
+    <string name="guardar_contactos">Guardar contactos</string>
+</resources>
